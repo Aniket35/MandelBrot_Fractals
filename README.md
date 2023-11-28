@@ -16,4 +16,7 @@ Feel free to experiment with the RGB values or fractal parameters within the cod
 
 ## Output Image
 
-The repository includes the `Image.bmp` file, showcasing a generated Mandelbrot fractal.
+The repository includes the `Output.bmp` file, showcasing a generated Mandelbrot fractal.
+![Output](https://github.com/Aniket35/MandelBrot_Fractals/assets/51885758/2bf0af53-3875-4c1f-9808-23c67cc7cc15)
+
+
